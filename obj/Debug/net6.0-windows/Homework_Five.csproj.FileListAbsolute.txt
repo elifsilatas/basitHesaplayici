@@ -1,0 +1,17 @@
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\Homework_Five.csproj.AssemblyReference.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\Homework_Five.Form1.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\Homework_Five.csproj.GenerateResource.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\Homework_Five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\Homework_Five.AssemblyInfoInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\Homework_Five.AssemblyInfo.cs
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\Homework_Five.csproj.CoreCompileInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\bin\Debug\net6.0-windows\Homework_Five.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\bin\Debug\net6.0-windows\Homework_Five.deps.json
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\bin\Debug\net6.0-windows\Homework_Five.runtimeconfig.json
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\bin\Debug\net6.0-windows\Homework_Five.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\bin\Debug\net6.0-windows\Homework_Five.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\Homework_Five.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\refint\Homework_Five.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\Homework_Five.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\Homework_Five.genruntimeconfig.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Five\obj\Debug\net6.0-windows\ref\Homework_Five.dll
